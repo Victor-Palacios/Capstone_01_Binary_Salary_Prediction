@@ -1,12 +1,12 @@
 <img src="https://github.com/Victor-Palacios/Salary-Prediction-Capstone-01/blob/master/THE_IMAGES/PDF_Intro.jpg" width="900">
 
-<img src="https://github.com/Victor-Palacios/Salary-Prediction-Capstone-01/blob/master/THE_IMAGES/PDF_Problem.jpg" width="600">
+<img src="https://github.com/Victor-Palacios/Salary-Prediction-Capstone-01/blob/master/THE_IMAGES/PDF_Problem.jpg" width="900">
 
-<img src="https://github.com/Victor-Palacios/Salary-Prediction-Capstone-01/blob/master/THE_IMAGES/PDF_Distribution.jpg" width="600">
+<img src="https://github.com/Victor-Palacios/Salary-Prediction-Capstone-01/blob/master/THE_IMAGES/PDF_Distribution.jpg" width="900">
 
-<img src="https://github.com/Victor-Palacios/Salary-Prediction-Capstone-01/blob/master/THE_IMAGES/PDF_Major.jpg" width="600">
+<img src="https://github.com/Victor-Palacios/Salary-Prediction-Capstone-01/blob/master/THE_IMAGES/PDF_Major.jpg" width="900">
 
-<img src="https://github.com/Victor-Palacios/Salary-Prediction-Capstone-01/blob/master/THE_IMAGES/PDF_Results.jpg" width="600">
+<img src="https://github.com/Victor-Palacios/Salary-Prediction-Capstone-01/blob/master/THE_IMAGES/PDF_Results.jpg" width="900">
 
 ## Thanks!
 
