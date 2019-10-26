@@ -1,3 +1,5 @@
+https://github.com/Victor-Palacios/Salary-Prediction-Capstone-01/blob/master/THE_IMAGES/A%20Data%20Scientist's%20Value_%20%20Are%20you%20worth%20more%20than%20the%20median%20Salary%3F.pdf
+
 ## Thanks!
 
 If you're reading this, you're probably looking to contributing to this project. 
