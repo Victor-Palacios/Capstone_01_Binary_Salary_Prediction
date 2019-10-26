@@ -1,5 +1,3 @@
-[embed] https://docs.google.com/presentation/d/1Z1gjjRIFBR3ESpQzH89BnlrtCNHcuZySzrlieRrPdXk/edit#slide=id.p [/embed]
-
 ## Thanks!
 
 If you're reading this, you're probably looking to contributing to this project. 
